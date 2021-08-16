@@ -1,0 +1,186 @@
+
+'***************************************************************************************************************
+'Name : Object Repository for Veeva Vault
+'Description: This object repository is being used by Specific Keywords
+'Type : Object Repository
+
+'***************************************************************************************************************
+
+VeevaVault_LoginPage_UserName=id:j_username
+VeevaVault_LoginPage_Continue=xpath://button[@class='vv-btn vv-btn-primary vv-btn-large vv-login-button vv-login-button-full-width']
+VevvaVault_LoginPage_Password=id:j_password
+VeevaVault_LoginPage_Login=xpath://button[@class='vv-btn vv-btn-primary vv-login-button vv-login-button-full-width']
+
+VeevaVault_HomePage_HomeLink=xpath://span[text()='Home']
+VeevaVault_HomePage_SearchBox=id:search_main_box
+
+VeevaVault_Library_PresentationEditField=xpath://div[@class=' library_leftnav_title vv_docinfo_action_icons vv_action_icons ']//a[@class='docInfoEditButton vv_button']
+VeevaVault_Library_PresentationEditField_Title=xpath://textarea[@class='dpPropTarget_title editMode  resizable vv_textarea vv_resizable veevaMaxLength vv_form_LG']
+
+VeevaVault_Library_PresentationEditField_Startdate=xpath://input[@class='vv_form_SM dpPropTarget_crmStartDate_b editMode date']
+VeevaVault_Library_PresentationEditField_Enddate=xpath://input[@class='vv_form_SM dpPropTarget_crmEndDate_b editMode date hasDatepicker']
+VeevaVault_Library_PresentationEditField_ProductMain=xpath://div[@class='doc_info_property_value vv_docinfo_value docInfoValue-product vv_required_field ssdpMaster ssdpSlave']
+VeevaVault_Library_PresentationEditField_Product_Existing=xpath://div[@class='doc_info_property_value vv_docinfo_value docInfoValue-product vv_required_field ssdpMaster ssdpSlave']//span[@class='multiItemSelectAutoComplete label vv_item_label']
+VeevaVault_Library_PresentationEditField_Product=xpath://div[@class='doc_info_property_value vv_docinfo_value docInfoValue-product vv_required_field ssdpMaster ssdpSlave']//input[@class='multiItemSelectInput vv_multi_item_select_input ui-autocomplete-input valid']
+#VeevaVault_Library_PresentationEditField_ProductList=xpath://div[@class='doc_info_property_value vv_docinfo_value docInfoValue-product vv_required_field ssdpMaster ssdpSlave']//input[@class='multiItemSelectInput vv_multi_item_select_input ui-autocomplete-input valid']
+
+VeevaVault_Library_PresentationEditField_IndicationMain=xpath://div[@class='doc_info_property_value vv_docinfo_value docInfoValue-indication2 vv_required_field  ssdpSlave']
+VeevaVault_Library_PresentationEditField_Indication_Existing=xpath://div[@class='doc_info_property_value vv_docinfo_value docInfoValue-indication2 vv_required_field  ssdpSlave']//span[@class='multiItemSelectAutoComplete label vv_item_label']
+VeevaVault_Library_PresentationEditField_Indication=xpath://div[@class='doc_info_property_value vv_docinfo_value docInfoValue-indication2 vv_required_field  ssdpSlave']//input[@class='multiItemSelectInput vv_multi_item_select_input ui-autocomplete-input valid']
+#VeevaVault_Library_PresentationEditField_IndicationList=xpath://div[@class='doc_info_property_value vv_docinfo_value docInfoValue-indication2 vv_required_field  ssdpSlave']//input[@class='multiItemSelectInput vv_multi_item_select_input ui-autocomplete-input valid']
+
+VeevaVault_Library_PresentationEditField_AssignmentRequirementMain=xpath://div[@class='doc_info_property_value vv_docinfo_value docInfoValue-alignmentRequirements vv_required_field ssdpMaster ssdpSlave']
+VeevaVault_Library_PresentationEditField_AssignmentRequirement_Existing=xpath://div[@class='doc_info_property_value vv_docinfo_value docInfoValue-alignmentRequirements vv_required_field ssdpMaster ssdpSlave']//span[@class='multiItemSelectAutoComplete label vv_item_label']
+VeevaVault_Library_PresentationEditField_AssignmentRequirement=xpath://div[@class='doc_info_property_value vv_docinfo_value docInfoValue-alignmentRequirements vv_required_field ssdpMaster ssdpSlave']//input[@class='multiItemSelectInput vv_multi_item_select_input ui-autocomplete-input valid']
+#VeevaVault_Library_PresentationEditField_AssignmentRequirementList=xpath://div[@class='doc_info_property_value vv_docinfo_value docInfoValue-alignmentRequirements vv_required_field ssdpMaster ssdpSlave']//input[@class='multiItemSelectInput vv_multi_item_select_input ui-autocomplete-input valid']
+
+VeevaVault_Library_PresentationEditField_SalesforceFilterMain=xpath://div[@class='doc_info_property_value vv_docinfo_value docInfoValue-salesforceFilter ssdpSlave vv_required_field']
+VeevaVault_Library_PresentationEditField_SalesforceFilter_Existing=xpath://div[@class='doc_info_property_value vv_docinfo_value docInfoValue-salesforceFilter ssdpSlave vv_required_field']//span[@class='multiItemSelectAutoComplete label vv_item_label']
+VeevaVault_Library_PresentationEditField_SalesforceFilter=xpath://div[@class='doc_info_property_value vv_docinfo_value docInfoValue-salesforceFilter ssdpSlave vv_required_field']//input[@class='multiItemSelectInput vv_multi_item_select_input ui-autocomplete-input valid']
+
+VeevaVault_Library_PresentationEditField_TerritoryFilterMain=xpath://div[@class='doc_info_property_value vv_docinfo_value docInfoValue-territory ssdpSlave vv_required_field']
+VeevaVault_Library_PresentationEditField_TerritoryFilter=xpath://div[@class='doc_info_property_value vv_docinfo_value docInfoValue-territory ssdpSlave vv_required_field']//input[@class='multiItemSelectInput vv_multi_item_select_input ui-autocomplete-input valid']
+VeevaVault_Library_PresentationEditField_TerritoryFilter_Existing=xpath://div[@class='doc_info_property_value vv_docinfo_value docInfoValue-territory ssdpSlave vv_required_field']//span[@class='multiItemSelectAutoComplete label vv_item_label']
+VeevaVault_Library_PresentationEditField_TerritoryFilter_List=xpath://div[@class='doc_info_property_value vv_docinfo_value docInfoValue-territory ssdpSlave vv_required_field']//input[@class='multiItemSelectInput vv_multi_item_select_input ui-autocomplete-input valid vv_full_width']
+
+VeevaVault_Library_PresentationEditField_HierarchyFilterMain=xpath://div[@class='doc_info_property_value vv_docinfo_value docInfoValue-hierarchyFilter   ']
+VeevaVault_Library_PresentationEditField_HierarchyFilter_Existing=xpath://div[@class='doc_info_property_value vv_docinfo_value docInfoValue-hierarchyFilter   ']//span[@class='multiItemSelectAutoComplete label vv_item_label']
+VeevaVault_Library_PresentationEditField_HierarchyFilter=xpath://div[@class='doc_info_property_value vv_docinfo_value docInfoValue-hierarchyFilter   ']//input[@class='multiItemSelectInput vv_multi_item_select_input ui-autocomplete-input valid']
+
+VeevaVault_Library_PresentationEditField_DepartmentMain=xpath://div[@class='doc_info_property_value vv_docinfo_value docInfoValue-department1   ']
+VeevaVault_Library_PresentationEditField_Department_Existing=xpath://div[@class='doc_info_property_value vv_docinfo_value docInfoValue-department1   ']//span[@class='multiItemSelectAutoComplete label vv_item_label']
+VeevaVault_Library_PresentationEditField_Department=xpath://div[@class='doc_info_property_value vv_docinfo_value docInfoValue-department1   ']//input[@class='multiItemSelectInput vv_multi_item_select_input ui-autocomplete-input valid']
+
+VeevaVault_Library_PresentationEditField_TestQAViewerMain=xpath://div[@class='doc_info_property_value vv_docinfo_value docInfoValue-testQAViewers   ']
+VeevaVault_Library_PresentationEditField_TestQAViewer_Existing=xpath://div[@class='doc_info_property_value vv_docinfo_value docInfoValue-testQAViewers   ']//span[@class='multiItemSelectAutoComplete label vv_item_label']
+VeevaVault_Library_PresentationEditField_TestQAViewer=xpath://div[@class='doc_info_property_value vv_docinfo_value docInfoValue-testQAViewers   ']//input[@class='multiItemSelectInput vv_multi_item_select_input ui-autocomplete-input valid']
+
+
+VeevaVault_Library_PresentationEditField_SearchByKeywordMain=xpath://div[@class='doc_info_property_value vv_docinfo_value docInfoValue-crmKeyword_b   ']
+VeevaVault_Library_PresentationEditField_SearchByKeyword=xpath://div[@class='doc_info_property_value vv_docinfo_value docInfoValue-crmKeyword_b   ']//input[@class='multiItemSelectInput vv_multi_item_select_input ui-autocomplete-input valid']
+VeevaVault_Library_PresentationEditField_SearchByKeyword_Existing=xpath://div[@class='doc_info_property_value vv_docinfo_value docInfoValue-crmKeyword_b   ']//span[@class='multiItemSelectAutoComplete label vv_item_label']
+
+VeevaVault_Library_PresentationEditField_DisplayBySettings=xpath://div[@key='displayBySettings']
+VeevaVault_Library_PresentationEditField_DisplayBySettings_CustomType=xpath://div[@class='doc_info_property_value vv_docinfo_value docInfoValue-customerType   ']//input[@class='multiItemSelectInput vv_multi_item_select_input ui-autocomplete-input valid']
+VeevaVault_Library_PresentationEditField_DisplayBySettings_Message=xpath://div[@class='doc_info_property_value vv_docinfo_value docInfoValue-messageTopic   ']//textarea[@class='dpPropTarget_messageTopic editMode  resizable vv_textarea vv_resizable veevaMaxLength vv_form_LG']
+
+VeevaVault_Library_PresentationEditFiels_Save=xpath://div[@class=' library_leftnav_title vv_docinfo_action_icons vv_action_icons ']//a[@class='docInfoSaveButton save vv_button vv_primary']
+
+
+VeevaVault_Library_SlideEditField_DisabledActionMain=xpath://div[@class='doc_info_property_value vv_docinfo_value docInfoValue-crmDisableActions_b   ']
+VeevaVault_Library_SlideEditField_DisabledAction=xpath://div[@class='doc_info_property_value vv_docinfo_value docInfoValue-crmDisableActions_b   ']//input[@class='multiItemSelectInput vv_multi_item_select_input ui-autocomplete-input valid']
+VeevaVault_Library_SlideEditField_DisabledAction_Existing=xpath://div[@class='doc_info_property_value vv_docinfo_value docInfoValue-crmDisableActions_b   ']//span[@class='multiItemSelectAutoComplete label vv_item_label']
+
+VeevaVault_Library_SlideEditField_CategoryMain=xpath://div[@class='doc_info_property_value vv_docinfo_value docInfoValue-category   ssdpSlave']
+VeevaVault_Library_SlideEditField_Category_Existing=xpath://div[@class='doc_info_property_value vv_docinfo_value docInfoValue-category   ssdpSlave']//span[@class='multiItemSelectAutoComplete label vv_item_label']
+VeevaVault_Library_SlideEditField_Category=xpath://div[@class='doc_info_property_value vv_docinfo_value docInfoValue-category   ssdpSlave']//input[@class='multiItemSelectInput vv_multi_item_select_input ui-autocomplete-input valid']
+VeevaVault_Library_SlideEditField_CategoryList=xpath://div[@class='doc_info_property_value vv_docinfo_value docInfoValue-category   ssdpSlave']//a[@class='dropdown vv_button vv_icon_button']
+VeevaVault_Library_SlideEditField_CustomReaction=xpath://textarea[@class='dpPropTarget_crmCustomReaction_b editMode  resizable vv_textarea vv_resizable veevaMaxLength vv_form_LG']
+
+VeevaVault_Library_SlideEditField_iOSResolution=xpath://div[@class='doc_info_property_value vv_docinfo_value docInfoValue-ios_resolution_b   ']//input[@class='multiItemSelectInput vv_multi_item_select_input ui-autocomplete-input valid']
+
+VeevaVault_Library_Slide_RelatedSharedResource=xpath://h3[@class='section-related_shared_resource__pm sectionAccordionHeader sectionHeaderProcessed ui-accordion-header ui-helper-reset ui-state-default vv_accordion_header']//span[@class='accordionHeaderLabel vv_accordion_header_label vv_ellipsis']
+VeevaVault_Library_Slide_SharedResourceName=xpath://div[@class='doc_info_section_body di_document_list ui-accordion-content ui-helper-reset ui-widget-content vv_accordion_content']//a[@class='docName doc_link veevaTooltipBound']
+
+VeevaVault_CRMPublishing_Link=xpath://a[@class='tab tabBarItem tabSpacer vv_vof_tab vv_top']//span[text()='CRM Publishing']
+VeevaVault_CRMPublishing_MainPage=xpath://li[@class='nav-item current-tab']//span[text()='CRM Publishing']
+VeevaVault_CRMPublishing_PublishtoCRM_Enabled=xpath://button[@class='veeva-button button-primary']
+VeevaVault_CRMPublishing_Summary_PublishToCRM=xpath://button[@class='veeva-button button-primary ng-binding']
+VeevaVault_CRMPublishing_Summary_Status=xpath://tr[@class='vv_gridview_row ng-scope']//div[@class='vv_text_cell ng-binding green-text']
+
+#//div[@class='vv_text_cell ng-binding' and text()='Full2']/ancestor::tr[@class='gridViewRow vv_gridview_row ng-scope']//div[@class='vv_text_cell ng-binding' and text()='CLM']/ancestor::tr[@class='gridViewRow vv_gridview_row ng-scope']//div[@class='vv_text_cell']
+
+#VeevaVault_Library_PresentationEditFiels_Save=xpath://div[@class='bottomButtonBar library_leftnav_title vv_docinfo_action_icons vv_action_icons']//a[@class='docInfoSaveButton save vv_button vv_primary']
+
+
+
+'***************************************************************************************************************
+'Name : Object Repository for Salesforce (CFG10QA, Full2 and Full4)
+'Description: This object repository is being used by Specific Keywords
+'Type : Object Repository
+
+'***************************************************************************************************************
+
+VeevaCRM_LoginPage_Username=id:username
+VeevaCRM_LoginPage_Password=id:password
+VeevaCRM_LoginPage_Login=id:Login
+VeevaCRM_HomePage_CLMPresentations=xpath://a[text()='CLM Presentations']
+VeevaCRM_CLMPresentation_View=xpath://select[@id='fcf']
+VeevaCRM_CLMPresentation_Go=xpath://input[@class='btn' and @name='go']
+#VeevaCRM_CLMPresentation_IVA_US=xpath://div[@class='x-grid3-cell-inner x-grid3-col-NAME']//span[text()='Automation Test IVA 1 - US']
+#VeevaCRM_CLMPresentation_IVA_UK=xpath://div[@class='x-grid3-cell-inner x-grid3-col-NAME']//span[text()='Automation Test IVA 2 - UK']
+VeevaCRM_CLMPresentation_IVA_Sharing=xpath:(//input[@class='btn' and @title='Sharing'])[1]
+VeevaCRM_CLMPresentation_IVA_Sharing_ADD=xpath://input[@class='btn primary']
+
+VeevaCRM_CLMPresentation_IVA_PresentationAssignmentCriteria_SalesforceCode=xpath://th[@class='labelCol vfLabelColTextWrap  first  last ' and text()='Salesforce Code']/ancestor::tr//span
+VeevaCRM_CLMPresentation_IVA_PresentationAssignmentCriteria_Department=xpath://th[@class='labelCol vfLabelColTextWrap  first  last ' and text()='Department']/ancestor::tr//span
+VeevaCRM_CLMPresentation_IVA_PresentationAssignmentCriteria_Territory=xpath://th[@class='labelCol vfLabelColTextWrap  first  last ' and text()='Territory']/ancestor::tr//span
+VeevaCRM_CLMPresentation_IVA_PresentationAssignmentCriteria_AlignmentHierarchy=xpath://th[@class='labelCol vfLabelColTextWrap  first  last ' and text()='Alignment Hierarchy']/ancestor::tr//span
+VeevaCRM_CLMPresentation_IVA_PresentationAssignmentCriteria_CLMPresentationGroups=xpath://th[@class='labelCol vfLabelColTextWrap  first  last ' and text()='CLM Presentation Groups']/ancestor::tr//span
+
+VeevaVault_CLMPresentation_IVA_Sharing_UserGroups=xpath://td[@class=' dataCell  ']//a
+
+
+'******************************************* CFG10QA ***********************************************************
+
+VeevaCRM_CLMPresentation_IVA_US_Description=xpath://div[@id='00NK0000001pbUR_ileinner']
+VeevaCRM_CLMPresentation_IVA_US_StartDate=xpath://div[@id='00NU00000045gbl_ileinner']
+VeevaCRM_CLMPresentation_IVA_US_Enddate=xpath://div[@id='00NU00000045gbk_ileinner']
+VeevaCRM_CLMPresentation_IVA_US_SalesforceCode=xpath://div[@id='00NU0000003OYIe_ileinner']
+VeevaCRM_CLMPrsentation_IVA_US_AllignmentRequirement=xpath://div[@id='00NK00000020kZA_ileinner']
+VeevaCRM_CLMPresentation_IVA_US_IndicationText=xpath://div[@id='00NK0000001qFNn_ileinner']
+VeevaCRM_CLMPresentation_IVA_US_Territory=xpath://div[@id='00NK00000046Gsh_ileinner']
+VeevaCRM_CLMPresentation_IVA_US_CustomerType=xpath://div[@id='00NU0000003M5WX_ileinner']
+VeevaCRM_CLMPresentation_IVA_US_Message_Topic=xpath://div[@id='00NU0000003M5WZ_ileinner']
+VeevaCRM_CLMPresentation_IVA_US_Search_By_Keyword=xpath://div[@id='00NK0000001pbUS_ileinner']
+VeevaCRM_CLMPresentation_IVA_US_Product=xpath://div[@id='00NU0000003OYIc_ileinner']
+
+
+#VeevaCRM_CLMPresentation_IVA_US_Slides=xpath://td[@class=' dataCell  ']//a[text()='Automation Test Slide']
+VeevaCRM_KeyMessage_Slide_Description=xpath://div[@id='00NU00000015JoI_ileinner']
+VeevaCRM_KeyMessage_Slide_Category=xpath://div[@id='00NU00000015Jus_ileinner']
+VeevaCRM_KeyMessage_Slide_CustomReaction=xpath://div[@id='00NU00000015K34_ileinner']
+VeevaCRM_KeyMessage_Slide_DisabledAction=xpath://div[@id='00NU0000003MuSd_ileinner']
+VeevaCRM_KeyMessgae_Slide_iOSResolution=xpath://div[@id='00NK0000003vo0I_ileinner']
+VeevaCRM_KeyMessage_Slide_SharedResource=xpath://a[@id='lookupa0DK000000MFq8R00NU0000004yNxh']
+
+#VeevaCRM_CLMPresentation_IVA_UK_Slides=xpath://td[@class=' dataCell  ']//a[text()='Automation Test Slide 1']
+
+
+'***************************************** Full2 *****************************************************************
+
+VeevaCRM_CLMPresentation_IVA_US_Full2_Description=xpath://div[@id='00NG000000FNUge_ileinner']
+VeevaCRM_CLMPresentation_IVA_US_Full2_StartDate=xpath://div[@id='00NG000000CpsHY_ileinner']
+VeevaCRM_CLMPresentation_IVA_US_Full2_Enddate=xpath://div[@id='00NG000000CpsHX_ileinner']
+VeevaCRM_CLMPresentation_IVA_US_Full2_PresentationAssignmentCriteria_Product=xpath://td[@id='LILLY_CLM_PRESENTATION_ASSIGNMENT:j_id1:j_id2:j_id76:prodlistreadonly:0:j_id81']
+VeevaCRM_CLMPresentation_IVA_US_Full2_Product=xpath://div[@id='00NG0000008mYbB_ileinner']
+VeevaCRM_CLMPresentation_IVA_US_Full2_AllignmentRequirement=xpath://div[@id='00N0f00000FpC4V_ileinner']
+VeevaCRM_CLMPresentation_IVA_US_Full2_IndicationText=xpath://div[@id='00N0f00000FpC4Z_ileinner']
+VeevaCRM_CLMPresentation_IVA_US_Full2_SalesforceCode=xpath://div[@id='00NG0000008mYbD_ileinner']
+VeevaCRM_CLMPresentation_IVA_US_Full2_Territory=xpath://div[@id='00N4R00000JBJi1_ileinner']
+VeevaCRM_CLMPresentation_IVA_US_Full2_CustomerType=xpath://div[@id='00NG0000008lUnX_ileinner']
+VeevaCRM_CLMPresentation_IVA_US_Full2_Message_Topic=xpath://div[@id='00NG0000008lUnZ_ileinner']
+VeevaCRM_CLMPresentation_IVA_US_Full2_Search_By_Keyword=xpath://div[@id='00NG000000FNUgf_ileinner']
+
+VeevaCRM_KeyMessage_Slide_Full2_Description=xpath://div[@id='00NG0000008KjpO_ileinner']
+VeevaCRM_KeyMessage_Slide_Full2_Category=xpath://div[@id='00NG0000008Kjvy_ileinner']
+VeevaCRM_KeyMessage_Slide_Full2_CustomReaction=xpath://div[@id='00NG0000008Kk4A_ileinner']
+VeevaCRM_KeyMessage_Slide_Full2_DisabledAction=xpath://div[@id='00NG0000008m2f3_ileinner']
+VeevaCRM_KeyMessgae_Slide_Full2_iOSResolution=xpath://div[@id='00N4R00000GBwUq_ileinner']
+VeevaCRM_KeyMessage_Slide_Full2_SharedResource=xpath://a[@id='lookupa0D050000013Avy00NG000000EY6T9']
+
+
+'******************************************* Full4 ***************************************************************
+VeevaCRM_CLMPresentation_IVA_UK_Full4_Description=xpath://div[@id='00NU0000006CLwW_ileinner']
+VeevaCRM_CLMPresentation_IVA_UK_Full4_Search_By_Keyword=xpath://div[@id='00NU0000006CLwX_ileinner']
+VeevaCRM_CLMPresentation_IVA_UK_Full4_DisabledAction=xpath://div[@id='00NU0000003MuSd_ileinner']
+VeevaCRM_CLMPresentation_IVA_UK_Full4_iOSResolution=xpath://div[@id='00N3g000000SeEw_ileinner']
+VeevaCRM_CLMPresentation_IVA_UK_Full4_Territory=xpath://div[@id='00N3g000000w5Mf_ileinner']
+VeevaCRM_CLMPresentation_IVA_UK_Full4_AllignmentRequirement=xpath://div[@id='00N0P000006LoOs_ileinner']
+VeevaCRM_CLMPresentation_IVA_UK_Full4_IndicationText=xpath://div[@id='00N0P000006LoOw_ileinner']
+
+VeevaCRM_CLMPresentation_IVA_US_Full4_PresentationAssignmentCriteria_ProductCode=xpath://td[@id='LILLY_CLM_PRESENTATION_ASSIGNMENT:j_id1:j_id2:j_id76:prodlistreadonly:0:j_id81']
+
+
+'******************************************** End ****************************************************************
+

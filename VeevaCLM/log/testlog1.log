@@ -1,0 +1,109 @@
+2019-03-13 18:48:26,611 [main] INFO Driver - Driver Variables are Initialized
+2019-03-13 18:48:26,875 [main] INFO GenericKeywords - getSQLRecordCount : Record counts in negative 
+2019-03-13 18:50:10,526 [main] INFO Driver - Driver Variables are Initialized
+2019-03-13 18:50:13,173 [main] INFO GenericKeywords - getSQLRecordCount : get Record counts 
+2019-03-13 18:50:18,384 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:50:18,443 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:50:18,493 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:50:18,862 [main] INFO GenericKeywords - getSQLRecordCount : get Record counts 
+2019-03-13 18:50:18,946 [main] INFO GenericKeywords - getSQLRecordCount : get Record counts 
+2019-03-13 18:50:19,097 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:50:20,628 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:50:20,659 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:50:20,715 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:50:20,743 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:50:20,843 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:50:20,872 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:50:20,897 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:50:20,928 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:50:20,979 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:50:21,012 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:50:21,047 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:50:21,050 [main] INFO GenericKeywords - executeKeyWord :  Keyword execution Start 
+2019-03-13 18:50:21,118 [main] INFO GenericKeywords - getConfigDetails : Configuration Details Fetched
+2019-03-13 18:50:21,121 [main] INFO GenericKeywords - getConfigDetails : Configuration Details Fetched
+2019-03-13 18:50:33,561 [main] INFO GenericKeywords - LaunchBrowser : Chrome Browser launched
+2019-03-13 18:50:37,606 [main] INFO GenericKeywords - OpenApplication : Application Launched
+2019-03-13 18:50:39,664 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:50:39,705 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:50:39,807 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:50:39,911 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:50:39,931 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:50:40,000 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:50:40,076 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:50:40,109 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:50:40,169 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:50:40,201 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:50:40,216 [main] INFO GenericKeywords - executeKeyWord :  Keyword execution Start 
+2019-03-13 18:50:40,239 [main] INFO GenericKeywords - getOR : OR Details Fetched
+2019-03-13 18:50:40,269 [main] INFO GenericKeywords - getbjectLocator : Object Locator Identified
+2019-03-13 18:50:40,274 [main] INFO GenericKeywords - isElementExist : Element Exist
+2019-03-13 18:50:43,871 [main] INFO GenericKeywords - clickButton : Button have been clicked
+2019-03-13 18:50:45,865 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:50:45,890 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:50:45,910 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:50:45,940 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:50:45,987 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:50:46,020 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:50:46,044 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:50:46,056 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:50:46,074 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:50:46,109 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:50:46,125 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:50:46,129 [main] INFO GenericKeywords - executeKeyWord :  Keyword execution Start 
+2019-03-13 18:50:46,133 [main] INFO GenericKeywords - getOR : OR Details Fetched
+2019-03-13 18:50:46,140 [main] INFO GenericKeywords - getbjectLocator : Object Locator Identified
+2019-03-13 18:50:46,146 [main] INFO GenericKeywords - isElementExist : Element Exist
+2019-03-13 18:50:51,350 [main] INFO Keywordmapping - SETEDITBOX KeyWord Failed : no such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='username']"}
+  (Session info: chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T19:05:14.666Z'
+System info: host: 'VM-NGIFAUTO-065', ip: '40.7.71.2', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Users\u4x7644\AppData\Lo...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 72.0.3626.119, webStorageEnabled: true}
+Session ID: 6ba021b11e3f037fc0e42bf5ca195998
+*** Element info: {Using=xpath, value=.//*[@id='username']}
+2019-03-13 18:50:54,011 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:50:54,045 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:50:54,082 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:50:54,101 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:50:54,115 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:50:54,131 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:50:54,147 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:50:54,179 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:50:54,194 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:50:54,221 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:50:54,238 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:50:54,253 [main] INFO GenericKeywords - executeKeyWord :  Keyword execution Start 
+2019-03-13 18:50:54,261 [main] INFO GenericKeywords - getOR : OR Details Fetched
+2019-03-13 18:50:54,273 [main] INFO GenericKeywords - getbjectLocator : Object Locator Identified
+2019-03-13 18:50:54,284 [main] INFO GenericKeywords - isElementExist : Element Exist
+2019-03-13 18:50:59,357 [main] INFO Keywordmapping - SETEDITBOX KeyWord Failed : no such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='password']"}
+  (Session info: chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T19:05:14.666Z'
+System info: host: 'VM-NGIFAUTO-065', ip: '40.7.71.2', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Users\u4x7644\AppData\Lo...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 72.0.3626.119, webStorageEnabled: true}
+Session ID: 6ba021b11e3f037fc0e42bf5ca195998
+*** Element info: {Using=xpath, value=.//*[@id='password']}
+2019-03-13 18:51:01,440 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:51:01,457 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:51:01,480 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:51:01,522 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:51:01,549 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:51:01,583 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:51:01,627 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:51:01,685 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:51:01,855 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:51:01,874 [main] INFO GenericKeywords - getSQLRecord : get SQL Record details 
+2019-03-13 18:51:01,926 [main] INFO GenericKeywords - executeKeyWord :  Keyword execution Start 
+2019-03-13 18:51:02,021 [main] INFO GenericKeywords - getOR : OR Details Fetched
+2019-03-13 18:51:02,026 [main] INFO GenericKeywords - getbjectLocator : Object Locator Identified
+2019-03-13 18:51:02,031 [main] INFO GenericKeywords - isElementExist : Element Exist
+2021-07-15 19:09:12,229 [Forwarding screenshot on session 1ee142fc-49d3-4778-a7f5-b74e472a4d01 to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://localhost:17093: Connection reset
+2021-07-15 19:09:12,246 [Forwarding screenshot on session 1ee142fc-49d3-4778-a7f5-b74e472a4d01 to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://localhost:17093
