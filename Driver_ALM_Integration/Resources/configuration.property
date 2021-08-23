@@ -1,0 +1,10 @@
+#BrowserDetails=chrome
+BrowserDetails=chrome_sl
+#BrowserDetails=ie
+#BrowserDetails=firefox
+GeckoDriverPath=.\\libs\\geckodriver.exe
+ieDriverPath=.\\libs\\IEDriverServer.exe
+chromeDriverPath=.\\libs\\chromedriver.exe
+fireFoxDriverPath=.\\libs\\geckodriver.exe
+ExecuteCompleteTestScriptOnGettingFailedStep=yes
+
