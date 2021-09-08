@@ -1,4 +1,4 @@
-# ITQS_AutomationTesting
+# ALM Integration With Driver
 How to use DriverIntegrationALM:
 1) Create UserCredentials.txt File in C:/Users/$YourUserName$/Documents/UserCredentials.txt
 2) Add below ALM Details inside UserCredentials.txt
